@@ -3,7 +3,7 @@
 Sou estudante de Sistemas de Informação, atualmente estou aprendendo e desenvolvendo projetos, aplicando meus conhecimentos gradativamente para me aprimorar. 
 <br>
 <br>
-<a href="www.linkedin.com/in/juliane-maira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/juliane-maira?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <br>
 
 💻📚 Tecnologias e Ferramentas
